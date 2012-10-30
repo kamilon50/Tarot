@@ -1,0 +1,188 @@
+/* 
+  Localizable.strings
+  Tarot
+
+  Created by Shijia Qian on 24/10/12.
+  Copyright (c) 2012 Shijia Qian. All rights reserved.
+*/
+
+"font_family" = "Apple Chancery";
+
+"app_name" = "Spiritual Guidance";
+
+"help_view_title" = "How To Use";
+
+"how_to_use" = "Click Start button to get start. Then a card will be randomly picked for you, which has a piece of nice spiritual guidance on the back. Tap or shake to see the words. You will feel peace and happy in your heart. Then to tap or shake again to get another card. \nHope you enjoy using this App!";
+
+"article" = "Hi my name is Joanne and I have been working as a Spiritual Tarot Card reader for the past 23 years.\n\nOver these years I have seen how we can resolve giant problems with a little bit of guidance.\n\nEach and every one of us is connected to a greater divine light and these cards are a wonderful tool to help you to tap into this wonderful light.  To discover that no matter what your issue seems to be there is a greater reason for it and something to learn.\n\nBy using the cards it gives your guides a way of communicating with you.  Each and every card is unique and offers its own unique guidance.\n\nEvery situation we go through has a potential for us to learn more about ourselves and evolve and grow in wisdom.\n\nBy learning our lessons we free ourselves and enjoy a greater more fulfilling life, a deeper connection, a life with more meaning.\n\nGuidance is always available to us if we open to receiving it.\n\nThese cards are meant to be light, helpful and bring joy to your living experience!\n\nEach card represents something you can practice daily, sometimes trying to tackle an issue more than one day at a time is too big, but we can all practice one thing daily!\n\nIf you keep getting the same card it means you need to look more closely at the lesson.\n\nAnd remember, every lesson comes back to being about you – your growth.  You have chosen whatever it is you are experiencing in order to learn.  You are not at the mercy of the universe.\n\nOur guides are there to guide us but we are the ones that need to do the work!!!";
+
+"title_1" = "SELF LOVE";
+"content_1" = "Today speak to yourself in all the right ways\nLovingly and Caringly\nWith time and patience,\nTolerance and understanding";
+
+"title_2" = "WORK";
+"content_2" = "There is inner work to be done.\nTake some quiet time out and look inside\nTake time to reflect\nLook at what you have been ignoring";
+
+"title_3" = "DON'T QUIT";
+"content_3" = "This is not the time to give up\nKeep working towards your goal\nAnd every step will bring you closer\nStride boldly towards attaining your goals";
+
+"title_4" = "NUTURE";
+"content_4" = "Today look after yourself\n\nTake time to feel what your needs are\n\nAnd then tend to them";
+
+"title_5" = "BE STILL";
+"content_5" = "Let the inner truth be revealed\nToday try not to busy yourself with things you do not need to do\nTake time for yourself\n Stop and be still";
+
+"title_6" = "COURAGE";
+"content_6" = "Today do something you have wanted to do but have been fearful of doing.\nWhether its asking for a promotion or pay rise that you feel you deserve\nOr perhaps say something to someone that you have wanting to say\nCourage will lead you further to your goals, to being your true self, the self you want to be.";
+
+"title_7" = "BEGIN AGAIN";
+"content_7" = "\nDon’t despair if something didn’t go the way you had hoped\nPerhaps it is time to start again, to lay down a new foundation\n To reset your goals\nLook at the wisdon you have gained and how far you have come\nFertilize the ground again\nAnd be assured the new will birth again";
+
+"title_8" = "CREATIVITY";
+"content_8" = "Do that something today that you have been wanting to do!\nFeel the joy enter your soul as you create something new\nFeel the stress leave your body as you enjoy this creative endeavo";
+
+"title_9" = "KINDNESS";
+"content_9" = "Today practice kindness\nTo yourself\nAnd to others\nIn the absence of kindness we wilt\nIn its presence we bloom";
+
+"title_10" = "NEW EXPERIENCE";
+"content_10" = "Allow yourself to have a new experience today\nIt will open your mind and bring joy\nDon’t be afraid of trying something new\nLove the challenge";
+
+"title_11" = "LEARN SOMETHING NEW";
+"content_11" = "Enroll in a course or read a new book\n\nResearch something your interested in\n\nGive yourself a new challenge";
+
+"title_12" = "HONESTY";
+"content_12" = "Today try to be really honest with yourself\nIt takes courage to be really honest with yourself\nThere is nothing to fear\nBy being really honest with yourself you become free";
+
+"title_13" = "THOUGHTS";
+"content_13" = "Watch your thoughts carefully\nAre they kind and loving?\nChallenge old thoughts and be aware of negative ones\nDon’t give negative thoughts any energy\nBy becoming aware of your thoughts you can change the ones that are not helpful to you!\nYour thoughts are powerful";
+
+"title_14" = "ANGELS";
+"content_14" = "The Angels are with you today and that someone special that has passed away is by your side\nFeel their love and support and have faith that you are loved";
+
+"title_15" = "BODY CARE";
+"content_15" = "Today take care of your body\nHave you been ignoring your body\nListen to what it is telling you\nTend to your bodies needs";
+
+"title_16" = "LIFE";
+"content_16" = "Today treasure the life you have been given\nDon’t take this life for granted\nHonor and appreciate this gift";
+
+"title_17" = "STRENGTH";
+"content_17" = "\nToday know that you have the strength you need\n\nIt is within you";
+
+"title_18" = "INTUITION";
+"content_18" = "\nNow is the time to allow your intuition to guide you\n\nTrust your inner voice";
+
+"title_19" = "POSITIVE";
+"content_19" = "Be positive today and all else will follow\nThink of all the positive things that can happen in your life\nThen watch as good things start to unfold";
+
+"title_20" = "LET IT GO";
+"content_20" = "Today try to let go of hurt feelings\nIn choosing to release the pain you regain your power\nLet the positive out way the negative\nOld grievances are not useful to you anymore\nThink of all the good in your life and all the kind words people have said to you throughout your life and this will help out way any negatives.";
+
+"title_21" = "SELF LOVE";
+"content_21" = "Today practice self love\nKnow that you are worthy of this love no matter what your flaws may be\nPractice seeing the good in yourself\nAnd all that you have been looking for outside of yourself you will find it has been within you all the time";
+
+"title_22" = "HAPPY";
+"content_22" = "\nToday choose to be Happy\n\nGive yourself permission to shine!!!!";
+
+"title_23" = "REST";
+"content_23" = "Rest is needed\nToday Take time to rest your body\nToday Take time to rest your mind\nGive yourself permission to just be";
+
+"title_24" = "BREATH";
+"content_24" = "Remember to breath\nToday become conscious of your breathing\nEvery opportunity you have today breath deeply\nIn slowly and out slowly\nSometimes we forget this simple yet life-calming act";
+
+"title_25" = "INNER PEACE";
+"content_25" = "Today let go of struggle\nLet things be easy\nSometimes we strive so hard, we need to just let it be\nNo matter what is happening in your life you can still choose to connect to your inner peace";
+
+"title_26" = "ADDICTION";
+"content_26" = "Today try to stop before you give in to a bad habit\nTry to sit with the uncomfortable feelings that the addiction is covering\nAnd realize you have the strength to overcome ANYTHING";
+
+"title_27" = "MUSIC";
+"content_27" = "\nToday turn on the music\nWhere ever you are and where ever you can\nTry to listen to music\nMusic is healing to the soul";
+
+"title_28" = "TRAVEL";
+"content_28" = "Today visit a new place\nWhere ever that may be\nGo somewhere you have been wanting to go\nOr plan that trip you have been putting off";
+
+"title_29" = "LESSONS";
+"content_29" = "Today try to see the lesson in what you are going through\nRemember we came onto this earth to evolve,\nAnd you have chosen whatever it is you are going through in order to learn.\nYou are not at the mercy of the universe\nWhat is the lesson that you need to learn from this situation?";
+
+"title_30" = "CELEBRATE";
+"content_30" = "Today celebrate who you are and who you have become\nYour strengths\nYour learning\nYour growth\nYour Self\nYour uniqueness";
+
+"title_31" = "OBSERVE";
+"content_31" = "\nToday take in the wonders of the world\n\nAppreciate the small things\n\nStop and smell the roses";
+
+"title_32" = "EXERCISE";
+"content_32" = "Make time for exercise\nToday go for a long walk\nIf you can, get out in the fresh air\nOr maybe go a swim in the sea\nIf you have been avoiding exercise, today is the day to start";
+
+"title_33" = "DIET";
+"content_33" = "Today look at your diet\nIs your body getting what it needs?\nAre you feeding your body the right foods?\nAre there certain foods you need to avoid?";
+
+"title_34" = "LISTEN";
+"content_34" = "Today choose to listen\nOpen to receiving the guidance that is there for you\nHear what people are communicating to you\nYou can learn so much from listening to those around you\nTry today to listen to your loved ones, hear what they are saying";
+
+"title_35" = "LOVE";
+"content_35" = "Today try to give love\nGive warmth\nDon’t expect anything back\nAnd try not to be afraid of rejection\nIn giving love unconditionally, you receive love!\nLove is there if you open to it\nToday try and see the love you have been ignoring";
+
+"title_36" = "BE YOURSELF";
+"content_36" = "\nToday practice being yourself\n\nThe most important kind of freedom is to be who you really are";
+
+"title_37" = "NEW BEGINNINGS";
+"content_37" = "There is a new door opening for you\nCan you see it?\nDo not be scared, the universe is working for you\nWalk through the new doors\nLet the old doors close";
+
+"title_38" = "FEAR";
+"content_38" = "Is fear controlling your life?\nFear is an illusion\nToday try to be aware of fear that blocks your true path\nFeel the fear and do it anyway";
+
+"title_39" = "GRATITUDE";
+"content_39" = "Today look at all the amazing things you have in your life\nYour life it’s self\nAnd be grateful for all your precious gifts\nYour Health\nYour friends\nYour home\nReflect upon your many blessings\nGratitude is the best attitude";
+
+"title_40" = "ENJOY";
+"content_40" = "Allow yourself to let go and enjoy.\nLet go of your worries and try to enjoy whatever task it is you have to do today\nApproach everything with a new attitude";
+
+"title_41" = "CONSIDERATION\nIS NEEDED";
+"content_41" = "Think carefully before you take this next step\nAre you being true to yourself?\nIs this next move good for you?\nIs it the right time?\nRemember is not really about what you want but rather what you need";
+
+"title_42" = "FORGIVENESS";
+"content_42" = "Are you holding on to anger and resentment\nFor something someone has done to you?\nOr perhaps you are holding this resentment towards yourself\nToday practice forgiveness, be it of yourself or someone else\nForgiveness does not mean you agree with what has happened, it simply means you are no longer willing to carry the pain.";
+
+"title_43" = "SLOW DOWN";
+"content_43" = "Are you moving too fast\nToday practice being in the now\nTry not to let your mind race to the future\nThere is enough time for everything\nTime is an illusion\nThe best time is now";
+
+"title_44" = "BELIEVE";
+"content_44" = "If you believe you can you will\nBelieve in yourself and your abilities\nHave faith that good things are coming";
+
+"title_45" = "SURRENDER";
+"content_45" = "If something isn’t working in your life be willing to let it go, set it free\nTry not to waste any more of you energy by forcing your will\nIf it is meant to be it will\nThe universe has a wonderful way of knowing what is good for you";
+
+"title_46" = "SELF CARE";
+"content_46" = "Be careful of self-destructive behavior\nRegulate any excesses in your life\nBe kind to yourself\nLove yourself\nYou will get there!";
+
+"title_47" = "SELF ACCEPTANCE";
+"content_47" = "Are you being too hard on yourself?\nToday practice being kind to your self\nFeed your self with loving thoughts";
+
+"title_48" = "RELEASE";
+"content_48" = "Today is the day to release old pain\nAllow yourself to Cry\nIf you find yourself feeling angry perhaps this is more a cover to pain that needs to be released\nCry, shed, release, cleanse away the old";
+
+"title_49" = "BALANCE";
+"content_49" = "Today create a schedule that is not lopsided\nMake time for work, rest and play\nIn your busy schedule make sure to make some time for yourself";
+
+"title_50" = "RELAXATION";
+"content_50" = "Today make time for relaxation\nMake it part of your schedule\nRelaxation helps release tension\nRelaxation is not a luxury but a necessity";
+
+"title_51" = "APPLICATION";
+"content_51" = "\nTime to put things into action\nToday do what it is you have been putting off\nAim for success";
+
+"title_52" = "DIAMOND";
+"content_52" = "Remember you are a light that shines bright\nYour soul is part of the beautiful diamond that we are all connected too\nYour body is the vehicle that carries this amazing soul\nSurround yourself with white light";
+
+"title_53" = "MEDITATION";
+"content_53" = "Today spend some quiet time alone\nAllow the mind to be still\nAllow your thoughts to come and go\nMeditation is a wonderful way for you to connect back to the source";
+
+"title_54" = "SELF PITY";
+"content_54" = "Be aware of self pity, it’s a trap\nBad things happen to everyone at times in their lives\nChoose to take the good out of every situation\nMove away from being a victim and become a THRIVER";
+
+"title_55" = "ACCEPTANCE";
+"content_55" = "\nThe universe has a greater plan for you\n\nGo with the flow";
+
+"title_56" = "DREAM";
+"content_56" = "\nAllow your self to dream\nBelieve in the power of the universe\nA wonderful surprise is coming your way";
+
+"title_57" = "ABUNDANCE";
+"content_57" = "Allow the abundance of the universe to flow through you\nSpiritually, mentally, emotionally and physically\nIt is all there for you\nAnd you have every right to draw on it\nAll you have to do is open to receiving";

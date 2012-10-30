@@ -1,0 +1,384 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		FA2C6AD31637A996004208B6 /* Localizable.strings in Resources */ = {isa = PBXBuildFile; fileRef = FA2C6AD21637A996004208B6 /* Localizable.strings */; };
+		FA431B211612E3CD00CCE2DF /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = FA431B201612E3CD00CCE2DF /* UIKit.framework */; };
+		FA431B231612E3CD00CCE2DF /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = FA431B221612E3CD00CCE2DF /* Foundation.framework */; };
+		FA431B251612E3CD00CCE2DF /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = FA431B241612E3CD00CCE2DF /* CoreGraphics.framework */; };
+		FA431B2B1612E3CD00CCE2DF /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = FA431B291612E3CD00CCE2DF /* InfoPlist.strings */; };
+		FA431B2D1612E3CD00CCE2DF /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = FA431B2C1612E3CD00CCE2DF /* main.m */; };
+		FA431B311612E3CD00CCE2DF /* TarotAppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = FA431B301612E3CD00CCE2DF /* TarotAppDelegate.m */; };
+		FA431B381612E3EA00CCE2DF /* MainStoryboard.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FA431B371612E3EA00CCE2DF /* MainStoryboard.storyboard */; };
+		FA431B3B1612E40600CCE2DF /* TarotMainViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = FA431B3A1612E40600CCE2DF /* TarotMainViewController.m */; };
+		FA431B401612F5FC00CCE2DF /* tarot_title.png in Resources */ = {isa = PBXBuildFile; fileRef = FA431B3F1612F5FC00CCE2DF /* tarot_title.png */; };
+		FA431B5016131C9000CCE2DF /* start_btn.png in Resources */ = {isa = PBXBuildFile; fileRef = FA431B4F16131C9000CCE2DF /* start_btn.png */; };
+		FA431B541613220700CCE2DF /* moon.png in Resources */ = {isa = PBXBuildFile; fileRef = FA431B531613220700CCE2DF /* moon.png */; };
+		FA431B581613240800CCE2DF /* star.png in Resources */ = {isa = PBXBuildFile; fileRef = FA431B571613240800CCE2DF /* star.png */; };
+		FA476DD0163A26AA0043F1A5 /* TarotArticleView.m in Sources */ = {isa = PBXBuildFile; fileRef = FA476DCF163A26AA0043F1A5 /* TarotArticleView.m */; };
+		FA476DD4163A33100043F1A5 /* yellow_paper.png in Resources */ = {isa = PBXBuildFile; fileRef = FA476DD3163A33100043F1A5 /* yellow_paper.png */; };
+		FA476DD6163A3A8D0043F1A5 /* closebtn.png in Resources */ = {isa = PBXBuildFile; fileRef = FA476DD5163A3A8D0043F1A5 /* closebtn.png */; };
+		FA476DDD163A8BDD0043F1A5 /* info_icon.png in Resources */ = {isa = PBXBuildFile; fileRef = FA476DDC163A8BDD0043F1A5 /* info_icon.png */; };
+		FA476DE0163A9C950043F1A5 /* TarotHelpView.m in Sources */ = {isa = PBXBuildFile; fileRef = FA476DDF163A9C950043F1A5 /* TarotHelpView.m */; };
+		FA476DF2163B95DD0043F1A5 /* backbtn.png in Resources */ = {isa = PBXBuildFile; fileRef = FA476DF1163B95DD0043F1A5 /* backbtn.png */; };
+		FA476E02163C13E50043F1A5 /* icon@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = FA476E01163C13E50043F1A5 /* icon@2x.png */; };
+		FA476E04163C13E70043F1A5 /* icon.png in Resources */ = {isa = PBXBuildFile; fileRef = FA476E03163C13E70043F1A5 /* icon.png */; };
+		FA5C95A716143B7F00B66C09 /* TarotGameViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = FA5C95A616143B7F00B66C09 /* TarotGameViewController.m */; };
+		FA5C95AA16143C5A00B66C09 /* UIViewController+UIViewController_CurtainViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = FA5C95A916143C5A00B66C09 /* UIViewController+UIViewController_CurtainViewController.m */; };
+		FACD1955161533A300C0E4BA /* TarotCardView.m in Sources */ = {isa = PBXBuildFile; fileRef = FACD1954161533A300C0E4BA /* TarotCardView.m */; };
+		FACD195C1615354300C0E4BA /* QuartzCore.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = FACD195B1615354300C0E4BA /* QuartzCore.framework */; };
+		FACD196016153A0B00C0E4BA /* card_back.png in Resources */ = {isa = PBXBuildFile; fileRef = FACD195F16153A0B00C0E4BA /* card_back.png */; };
+		FACD196B161549EF00C0E4BA /* TarotCustomSegue.m in Sources */ = {isa = PBXBuildFile; fileRef = FACD196A161549EF00C0E4BA /* TarotCustomSegue.m */; };
+		FACD197016155B6900C0E4BA /* banner.png in Resources */ = {isa = PBXBuildFile; fileRef = FACD196F16155B6900C0E4BA /* banner.png */; };
+		FACD1977161572EB00C0E4BA /* main_bg.png in Resources */ = {isa = PBXBuildFile; fileRef = FACD1976161572EB00C0E4BA /* main_bg.png */; };
+		FAD7B7361637C93C00046489 /* AppleChancery.ttf in Resources */ = {isa = PBXBuildFile; fileRef = FA2C6AE41637BD9A004208B6 /* AppleChancery.ttf */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		FA2C6AD21637A996004208B6 /* Localizable.strings */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.strings; path = Localizable.strings; sourceTree = "<group>"; };
+		FA2C6AE41637BD9A004208B6 /* AppleChancery.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = AppleChancery.ttf; path = Tarot/AppleChancery.ttf; sourceTree = "<group>"; };
+		FA431B1C1612E3CD00CCE2DF /* Tarot.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Tarot.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		FA431B201612E3CD00CCE2DF /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
+		FA431B221612E3CD00CCE2DF /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
+		FA431B241612E3CD00CCE2DF /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
+		FA431B281612E3CD00CCE2DF /* Tarot-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "Tarot-Info.plist"; sourceTree = "<group>"; };
+		FA431B2A1612E3CD00CCE2DF /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		FA431B2C1612E3CD00CCE2DF /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		FA431B2E1612E3CD00CCE2DF /* Tarot-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Tarot-Prefix.pch"; sourceTree = "<group>"; };
+		FA431B2F1612E3CD00CCE2DF /* TarotAppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = TarotAppDelegate.h; sourceTree = "<group>"; };
+		FA431B301612E3CD00CCE2DF /* TarotAppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = TarotAppDelegate.m; sourceTree = "<group>"; };
+		FA431B371612E3EA00CCE2DF /* MainStoryboard.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = MainStoryboard.storyboard; sourceTree = "<group>"; };
+		FA431B391612E40600CCE2DF /* TarotMainViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TarotMainViewController.h; sourceTree = "<group>"; };
+		FA431B3A1612E40600CCE2DF /* TarotMainViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TarotMainViewController.m; sourceTree = "<group>"; };
+		FA431B3F1612F5FC00CCE2DF /* tarot_title.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = tarot_title.png; sourceTree = "<group>"; };
+		FA431B4F16131C9000CCE2DF /* start_btn.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = start_btn.png; sourceTree = "<group>"; };
+		FA431B531613220700CCE2DF /* moon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = moon.png; sourceTree = "<group>"; };
+		FA431B571613240800CCE2DF /* star.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = star.png; sourceTree = "<group>"; };
+		FA476DCE163A26AA0043F1A5 /* TarotArticleView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TarotArticleView.h; sourceTree = "<group>"; };
+		FA476DCF163A26AA0043F1A5 /* TarotArticleView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TarotArticleView.m; sourceTree = "<group>"; };
+		FA476DD3163A33100043F1A5 /* yellow_paper.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = yellow_paper.png; sourceTree = "<group>"; };
+		FA476DD5163A3A8D0043F1A5 /* closebtn.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = closebtn.png; sourceTree = "<group>"; };
+		FA476DDC163A8BDD0043F1A5 /* info_icon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = info_icon.png; sourceTree = "<group>"; };
+		FA476DDE163A9C950043F1A5 /* TarotHelpView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TarotHelpView.h; sourceTree = "<group>"; };
+		FA476DDF163A9C950043F1A5 /* TarotHelpView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TarotHelpView.m; sourceTree = "<group>"; };
+		FA476DF1163B95DD0043F1A5 /* backbtn.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = backbtn.png; sourceTree = "<group>"; };
+		FA476E01163C13E50043F1A5 /* icon@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "icon@2x.png"; path = "../icon@2x.png"; sourceTree = "<group>"; };
+		FA476E03163C13E70043F1A5 /* icon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = icon.png; path = ../icon.png; sourceTree = "<group>"; };
+		FA5C95A516143B7F00B66C09 /* TarotGameViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TarotGameViewController.h; sourceTree = "<group>"; };
+		FA5C95A616143B7F00B66C09 /* TarotGameViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TarotGameViewController.m; sourceTree = "<group>"; };
+		FA5C95A816143C5A00B66C09 /* UIViewController+UIViewController_CurtainViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIViewController+UIViewController_CurtainViewController.h"; sourceTree = "<group>"; };
+		FA5C95A916143C5A00B66C09 /* UIViewController+UIViewController_CurtainViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIViewController+UIViewController_CurtainViewController.m"; sourceTree = "<group>"; };
+		FACD1953161533A300C0E4BA /* TarotCardView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TarotCardView.h; sourceTree = "<group>"; };
+		FACD1954161533A300C0E4BA /* TarotCardView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TarotCardView.m; sourceTree = "<group>"; };
+		FACD195B1615354300C0E4BA /* QuartzCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = QuartzCore.framework; path = System/Library/Frameworks/QuartzCore.framework; sourceTree = SDKROOT; };
+		FACD195F16153A0B00C0E4BA /* card_back.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = card_back.png; sourceTree = "<group>"; };
+		FACD1969161549EF00C0E4BA /* TarotCustomSegue.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TarotCustomSegue.h; sourceTree = "<group>"; };
+		FACD196A161549EF00C0E4BA /* TarotCustomSegue.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TarotCustomSegue.m; sourceTree = "<group>"; };
+		FACD196F16155B6900C0E4BA /* banner.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = banner.png; sourceTree = "<group>"; };
+		FACD1976161572EB00C0E4BA /* main_bg.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = main_bg.png; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		FA431B191612E3CD00CCE2DF /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				FACD195C1615354300C0E4BA /* QuartzCore.framework in Frameworks */,
+				FA431B211612E3CD00CCE2DF /* UIKit.framework in Frameworks */,
+				FA431B231612E3CD00CCE2DF /* Foundation.framework in Frameworks */,
+				FA431B251612E3CD00CCE2DF /* CoreGraphics.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		FA431B111612E3CD00CCE2DF = {
+			isa = PBXGroup;
+			children = (
+				FA2C6AE41637BD9A004208B6 /* AppleChancery.ttf */,
+				FA431B261612E3CD00CCE2DF /* Tarot */,
+				FA431B1F1612E3CD00CCE2DF /* Frameworks */,
+				FA431B1D1612E3CD00CCE2DF /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		FA431B1D1612E3CD00CCE2DF /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				FA431B1C1612E3CD00CCE2DF /* Tarot.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		FA431B1F1612E3CD00CCE2DF /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				FACD195B1615354300C0E4BA /* QuartzCore.framework */,
+				FA431B201612E3CD00CCE2DF /* UIKit.framework */,
+				FA431B221612E3CD00CCE2DF /* Foundation.framework */,
+				FA431B241612E3CD00CCE2DF /* CoreGraphics.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		FA431B261612E3CD00CCE2DF /* Tarot */ = {
+			isa = PBXGroup;
+			children = (
+				FA431B2F1612E3CD00CCE2DF /* TarotAppDelegate.h */,
+				FA431B301612E3CD00CCE2DF /* TarotAppDelegate.m */,
+				FA431B391612E40600CCE2DF /* TarotMainViewController.h */,
+				FA431B3A1612E40600CCE2DF /* TarotMainViewController.m */,
+				FA5C95A516143B7F00B66C09 /* TarotGameViewController.h */,
+				FA5C95A616143B7F00B66C09 /* TarotGameViewController.m */,
+				FA431B271612E3CD00CCE2DF /* Supporting Files */,
+			);
+			path = Tarot;
+			sourceTree = "<group>";
+		};
+		FA431B271612E3CD00CCE2DF /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				FA431B3E1612F58400CCE2DF /* Images */,
+				FA431B281612E3CD00CCE2DF /* Tarot-Info.plist */,
+				FA431B291612E3CD00CCE2DF /* InfoPlist.strings */,
+				FA431B2C1612E3CD00CCE2DF /* main.m */,
+				FA431B2E1612E3CD00CCE2DF /* Tarot-Prefix.pch */,
+				FA431B371612E3EA00CCE2DF /* MainStoryboard.storyboard */,
+				FACD1953161533A300C0E4BA /* TarotCardView.h */,
+				FACD1954161533A300C0E4BA /* TarotCardView.m */,
+				FA476DCE163A26AA0043F1A5 /* TarotArticleView.h */,
+				FA476DCF163A26AA0043F1A5 /* TarotArticleView.m */,
+				FA476DDE163A9C950043F1A5 /* TarotHelpView.h */,
+				FA476DDF163A9C950043F1A5 /* TarotHelpView.m */,
+				FA5C95A816143C5A00B66C09 /* UIViewController+UIViewController_CurtainViewController.h */,
+				FA5C95A916143C5A00B66C09 /* UIViewController+UIViewController_CurtainViewController.m */,
+				FACD1969161549EF00C0E4BA /* TarotCustomSegue.h */,
+				FACD196A161549EF00C0E4BA /* TarotCustomSegue.m */,
+				FA2C6AD21637A996004208B6 /* Localizable.strings */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		FA431B3E1612F58400CCE2DF /* Images */ = {
+			isa = PBXGroup;
+			children = (
+				FA476E03163C13E70043F1A5 /* icon.png */,
+				FA476E01163C13E50043F1A5 /* icon@2x.png */,
+				FA476DF1163B95DD0043F1A5 /* backbtn.png */,
+				FA476DDC163A8BDD0043F1A5 /* info_icon.png */,
+				FA476DD5163A3A8D0043F1A5 /* closebtn.png */,
+				FA476DD3163A33100043F1A5 /* yellow_paper.png */,
+				FACD1976161572EB00C0E4BA /* main_bg.png */,
+				FACD196F16155B6900C0E4BA /* banner.png */,
+				FACD195F16153A0B00C0E4BA /* card_back.png */,
+				FA431B571613240800CCE2DF /* star.png */,
+				FA431B531613220700CCE2DF /* moon.png */,
+				FA431B4F16131C9000CCE2DF /* start_btn.png */,
+				FA431B3F1612F5FC00CCE2DF /* tarot_title.png */,
+			);
+			name = Images;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		FA431B1B1612E3CD00CCE2DF /* Tarot */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = FA431B341612E3CD00CCE2DF /* Build configuration list for PBXNativeTarget "Tarot" */;
+			buildPhases = (
+				FA431B181612E3CD00CCE2DF /* Sources */,
+				FA431B191612E3CD00CCE2DF /* Frameworks */,
+				FA431B1A1612E3CD00CCE2DF /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = Tarot;
+			productName = Tarot;
+			productReference = FA431B1C1612E3CD00CCE2DF /* Tarot.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		FA431B131612E3CD00CCE2DF /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				CLASSPREFIX = Tarot;
+				LastUpgradeCheck = 0450;
+				ORGANIZATIONNAME = "Shijia Qian";
+			};
+			buildConfigurationList = FA431B161612E3CD00CCE2DF /* Build configuration list for PBXProject "Tarot" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = FA431B111612E3CD00CCE2DF;
+			productRefGroup = FA431B1D1612E3CD00CCE2DF /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				FA431B1B1612E3CD00CCE2DF /* Tarot */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		FA431B1A1612E3CD00CCE2DF /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				FA431B2B1612E3CD00CCE2DF /* InfoPlist.strings in Resources */,
+				FA431B381612E3EA00CCE2DF /* MainStoryboard.storyboard in Resources */,
+				FA431B401612F5FC00CCE2DF /* tarot_title.png in Resources */,
+				FA431B5016131C9000CCE2DF /* start_btn.png in Resources */,
+				FA431B541613220700CCE2DF /* moon.png in Resources */,
+				FA431B581613240800CCE2DF /* star.png in Resources */,
+				FACD196016153A0B00C0E4BA /* card_back.png in Resources */,
+				FACD197016155B6900C0E4BA /* banner.png in Resources */,
+				FACD1977161572EB00C0E4BA /* main_bg.png in Resources */,
+				FA2C6AD31637A996004208B6 /* Localizable.strings in Resources */,
+				FAD7B7361637C93C00046489 /* AppleChancery.ttf in Resources */,
+				FA476DD4163A33100043F1A5 /* yellow_paper.png in Resources */,
+				FA476DD6163A3A8D0043F1A5 /* closebtn.png in Resources */,
+				FA476DDD163A8BDD0043F1A5 /* info_icon.png in Resources */,
+				FA476DF2163B95DD0043F1A5 /* backbtn.png in Resources */,
+				FA476E02163C13E50043F1A5 /* icon@2x.png in Resources */,
+				FA476E04163C13E70043F1A5 /* icon.png in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		FA431B181612E3CD00CCE2DF /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				FA431B2D1612E3CD00CCE2DF /* main.m in Sources */,
+				FA431B311612E3CD00CCE2DF /* TarotAppDelegate.m in Sources */,
+				FA431B3B1612E40600CCE2DF /* TarotMainViewController.m in Sources */,
+				FA5C95A716143B7F00B66C09 /* TarotGameViewController.m in Sources */,
+				FA5C95AA16143C5A00B66C09 /* UIViewController+UIViewController_CurtainViewController.m in Sources */,
+				FACD1955161533A300C0E4BA /* TarotCardView.m in Sources */,
+				FACD196B161549EF00C0E4BA /* TarotCustomSegue.m in Sources */,
+				FA476DD0163A26AA0043F1A5 /* TarotArticleView.m in Sources */,
+				FA476DE0163A9C950043F1A5 /* TarotHelpView.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXVariantGroup section */
+		FA431B291612E3CD00CCE2DF /* InfoPlist.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				FA431B2A1612E3CD00CCE2DF /* en */,
+			);
+			name = InfoPlist.strings;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		FA431B321612E3CD00CCE2DF /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 5.1;
+				SDKROOT = iphoneos;
+			};
+			name = Debug;
+		};
+		FA431B331612E3CD00CCE2DF /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 5.1;
+				OTHER_CFLAGS = "-DNS_BLOCK_ASSERTIONS=1";
+				SDKROOT = iphoneos;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		FA431B351612E3CD00CCE2DF /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "Tarot/Tarot-Prefix.pch";
+				INFOPLIST_FILE = "Tarot/Tarot-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				WRAPPER_EXTENSION = app;
+			};
+			name = Debug;
+		};
+		FA431B361612E3CD00CCE2DF /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "Tarot/Tarot-Prefix.pch";
+				INFOPLIST_FILE = "Tarot/Tarot-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				WRAPPER_EXTENSION = app;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		FA431B161612E3CD00CCE2DF /* Build configuration list for PBXProject "Tarot" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				FA431B321612E3CD00CCE2DF /* Debug */,
+				FA431B331612E3CD00CCE2DF /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		FA431B341612E3CD00CCE2DF /* Build configuration list for PBXNativeTarget "Tarot" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				FA431B351612E3CD00CCE2DF /* Debug */,
+				FA431B361612E3CD00CCE2DF /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = FA431B131612E3CD00CCE2DF /* Project object */;
+}
